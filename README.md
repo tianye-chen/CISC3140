@@ -1,5 +1,5 @@
 # CISC3140
-For CISC3142 labs
+For CISC3140 labs
 
 ## Lab 1
     Sorts all cars based on total score and outputs top 3 cars
