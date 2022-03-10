@@ -1,4 +1,4 @@
-# Tianye Chen CISC3142 Lab 2 Database
+# Tianye Chen CISC3140 Lab 2 Database
 ## Cars
 
 |cid |name| type| notnull| dflt_value| pk
