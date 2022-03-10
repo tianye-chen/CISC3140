@@ -1,4 +1,4 @@
-# CISC3142
+# CISC3140
 For CISC3142 labs
 
 ## Lab 1
